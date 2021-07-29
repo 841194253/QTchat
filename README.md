@@ -4,7 +4,7 @@
 
 QT版本为5.14.2
 
-MacOS端各类软件语言版本：C++11、MacOS14.6、QT Creater4.11.1、clang
+MacOS端各类软件语言版本：C++11、MacOS14.6、QT Creater4.11.1、clang11.0
 
 Linux端各类软件语言版本：C++11、gcc9.1、Ubuntu16.04.7、QT Creater4.11.1
 
